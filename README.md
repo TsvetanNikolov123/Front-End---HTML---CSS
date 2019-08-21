@@ -136,3 +136,63 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 #### Solution: <a title="06 - Tags Cardio - Table" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/tree/master/03%20INTRODUCTION%20TO%20HTML%20%26%20CSS/06.%20Tags%20Cardio%20-%20Table">06 - Tags Cardio - Table</a>
 
 ---
+
+### 03.07 - Tags Cardio - DataTable
+
+Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+
+Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
+
+##### Constraints
+ * Change the document **title** to *Simple Data Table*
+ * Use **h2** tag for heading
+ * Use **table**, **thead**, and **tbody** tags to create table 
+ * Use **tr** tag for rows
+ * Use **th** and **td** tags for columns
+ 	
+<br/>
+
+*Example solution*
+<img src="https://user-images.githubusercontent.com/32310938/63469003-d9723580-c471-11e9-852b-d49d60d742ab.png" alt="alt text" width="800" height="">
+
+#### Solution: <a title="07 - Tags Cardio - DataTable" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/tree/master/03%20INTRODUCTION%20TO%20HTML%20%26%20CSS/07.%20Tags%20Cardio%20-%20DataTable">07 - Tags Cardio - DataTable</a>
+
+---
+
+### 03.08 - Tags Cardio - Forms
+
+Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
+
+Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
+
+##### Constraints
+* Change the document **title** to *Forms*
+* Create a **form**
+* Use a **fieldset** tag with **legend** - *"Customer Details"*
+* Each input tag should be in label:
+  * The *[First Name]* input field must be **focused**
+  * The *[Email]* input tag should have **type="email"** 
+  * The 3th and the 4th labels should contain input tags with **type="radio"**
+  * The 7th label should have **select** tag and **option** tags with the city name values
+  * Тhe 8th label should have input tag with **type="number"** (with **min value** - 18 and **max value** - 70)
+  * The 9th label should have **datalist** tag and **option** tags with the languages type value
+  * The 10th label should have **textarea** tag with 5 rows and 20 columns
+  * The 11th label should have input tag with **type="checkbox"** and value "checked"
+  * The 12th label should have input tag with **type="submit"** 
+* The **placeholders** are obligatory
+
+##### Hints
+* Do not forget to use **"for"** and **"id" attributes** with the same value for **label** and **input** tags
+	
+<br/>
+
+*Example solution*
+<img src="https://user-images.githubusercontent.com/32310938/63469344-a7ad9e80-c472-11e9-935a-443287b283c5.png" alt="alt text" width="800" height="">
+<img src="https://user-images.githubusercontent.com/32310938/63469345-a8463500-c472-11e9-872d-e716f20d6a44.png" alt="alt text" width="800" height="">
+<img src="https://user-images.githubusercontent.com/32310938/63469347-a8463500-c472-11e9-82c6-f5d4be7e78d2.png" alt="alt text" width="800" height="">
+
+#### Solution: <a title="08 - Tags Cardio - Forms" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/tree/master/03%20INTRODUCTION%20TO%20HTML%20%26%20CSS/08.%20Tags%20Cardio%20-%20Forms">08 - Tags Cardio - Forms</a>
+
+---
+
+
