@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+</head>
+<body>
+<form action="#" method="get">
+    <fieldset>
+        <legend>Customer Details</legend>
+
+        <form>
+            <label for="first-name">First Name</label>
+            <input type="text" name="first-name" value="" id="first-name">
+        </form>
+
+        <br/>
+        <br/>
+
+        <form>
+            <label for="last-name">Last Name</label>
+            <input type="text" name="last-name" value="" id="last-name">
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="male">Male</label>
+            <input type="radio" name="male" value="" id="male">
+
+            <label for="female">Female</label>
+            <input type="radio" name="female" value="" id="female">
+
+            <label for="other">Other</label>
+            <input type="radio" name="other" value="" id="other">
+        </form>
+
+        <br/>
+
+        <form>
+            Preferred contact method:
+            <label for="email">Email</label>
+            <input type="radio" name="email" value="" id="email">
+
+            <label for="phone">Phone</label>
+            <input type="radio" name="phone" value="" id="phone">
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="input-email">Email</label>
+            <input type="email" name="email" value="" id="input-email">
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="input-phone">Phone</label>
+            <input type="text" name="phone" value="" id="input-phone">
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="town">Town
+                <select id="town">
+                    <option value="varna">Varna</option>
+                    <option value="plovdiv">Plovdiv</option>
+                    <option value="burgas">Burgas</option>
+                    <option value="sofia">Sofia</option>
+                    <option value="pleven">Pleven</option>
+                </select>
+            </label>
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="age">Age</label>
+            <input type="number" name="age" value="" id="age" min="18" max="70">
+        </form>
+
+        <br/>
+
+        <form action="#" method="get">
+            <label for="languages">
+                Programming language
+                <input list="languages" name="languages">
+            </label>
+            <datalist id="languages">
+                <option value="Java">
+                <option value="PHP">
+                <option value="C#">
+                <option value="JavaScript">
+                <option value="Python">
+                <option value="Ruby">
+                <option value="Other">
+            </datalist>
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="more-info-dialog"></label>
+            <textarea name="more-information" id="more-info-dialog" cols="20" rows="5" placeholder="More information..."></textarea>
+        </form>
+
+        <br/>
+
+        <form>
+            <label for="terms-condition">
+                <input type="checkbox" id="terms-condition">I agree the Terms and Conditions
+            </label>
+        </form>
+
+        <br/>
+
+        <form>
+            <button>Send</button>
+        </form>
+
+    </fieldset>
+</form>
+</body>
+</html>
