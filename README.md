@@ -15,7 +15,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
  * Change the document **title** to *Simple HTML Page*
  * Use **paragraph** tag for plain text and **strong** tag for bold text
 
@@ -33,7 +33,7 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
  Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
  
  Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
- ##### Constraints
+**Constraints**
  * Change the document **title** to *Paragraphs*
  * Use the **h1** tag for heading
  * Use **p** tags for each line of the text
@@ -54,7 +54,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
  * Change the document **title** to *Single Article Page*
  * Create an **article** with several items inside
 	* Use **h2** and **h4** tags for headings
@@ -75,7 +75,7 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://softuni.bg/trainings/2265/web-fundamentals-html5-january-2019/) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
-##### Constraints
+**Constraints**
  * Change the document **title** to *Lists*
  * Add section with two articles inside (for each list)
  * Each article must have a **h2** heading
@@ -99,7 +99,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
  * Change the document **title** to *Nested Lists*
  * Use **h2** tag for heading
  * Use different types for **ordered** and **unordered** lists
@@ -120,7 +120,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
  * Change the document **title** to *Checkout tablе*
  * Use **h2** tag for heading
  * Use **table** tag to create a table
@@ -143,7 +143,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
  * Change the document **title** to *Simple Data Table*
  * Use **h2** tag for heading
  * Use **table**, **thead**, and **tbody** tags to create table 
@@ -165,7 +165,7 @@ Problems for in-class lab for the [“Web Fundamentals - HTML 5”](https://soft
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/1136/Introduction-to-HTML-and-CSS).
 
-##### Constraints
+**Constraints**
 * Change the document **title** to *Forms*
 * Create a **form**
 * Use a **fieldset** tag with **legend** - *"Customer Details"*
@@ -181,7 +181,7 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
   * The 12th label should have input tag with **type="submit"** 
 * The **placeholders** are obligatory
 
-##### Hints
+**Hints**
 * Do not forget to use **"for"** and **"id" attributes** with the same value for **label** and **input** tags
 	
 <br/>
