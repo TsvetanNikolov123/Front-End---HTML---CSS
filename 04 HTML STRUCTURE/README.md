@@ -18,6 +18,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
     * Create two paragraphs inside 
 * Use **footer** tag for the last section
     * Create two paragraphs inside
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071461-dd5aa280-e55b-11e9-9c72-2cab77a9490a.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="01 - Semantic Tags" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/01.%20Semantic%20Tags/index.html">01 - Semantic Tags</a>
@@ -41,6 +44,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
         * Each article contains a comment and has:    
             * **Header** with an **h3** heading and a **paragraph** for the time
             * Exactly one **paragraph** for the comment  
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071484-e51a4700-e55b-11e9-8376-ae7c18f4ee4c.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="02 - Semantic Article Page" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/02.%20Semantic%20Article%20Page/index.html">02 - Semantic Article Page</a>
@@ -65,6 +71,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
             * For the dates use **time** tag
 * Third use **footer** tag with exacly two paragraphs inside
     * Use **anchor** tag for the name in the last sentence
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071499-eba8be80-e55b-11e9-96b2-e2bd2d594964.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="03 - Semantic Blog Layout" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/03.%20Semantic%20Blog%20Layout/index.html">03 - Semantic Blog Layout</a>
@@ -86,6 +95,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
     * Use **tfoot** tag for table footer
 * Use **tr** tag for rows
 * Use **th** and **td** tags for columns
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071536-fc593480-e55b-11e9-9d66-62e17197bb79.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="04 - Semantic Tables" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/04.%20Semantic%20Tables/index.html">04 - Semantic Tables</a>
@@ -118,6 +130,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 
 ## Hints
 * To download the HTML code click **Ctrl+S** and save the files
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071549-024f1580-e55c-11e9-881e-da2daff095ff.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="05 - Clean Up Nasty HTML Baby Magazine" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/05.%20Clean%20up%20Baby%20Magazine/index.html">05 - Clean Up Nasty HTML Baby Magazine</a>
@@ -147,6 +162,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 
 ## Hints
 * To download the HTML code click **Ctrl+S** and save the files
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071564-0713c980-e55c-11e9-9f6e-2b2930ef5082.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="06 - Clean Up Nasty HTML Magazine" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/06.%20Clean%20up%20Magazine/inde.html">06 - Clean Up Nasty HTML Magazine</a>
@@ -175,6 +193,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 
 ## Hints
 * To download the HTML code click **Ctrl+S** and save the files
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071570-0b3fe700-e55c-11e9-9fd2-0d413569beb8.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="07 - Clean Up Nasty HTML Wiki Elephant" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/07.%20Clean%20up%20Wiki%20Elephant/index.html">07 - Clean Up Nasty HTML Wiki Elephant</a>
@@ -204,6 +225,9 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
 
 ## Hints
 * To download the HTML code click **Ctrl+S** and save the files
+
+**Sample Solution**
+<kbd><img src="https://user-images.githubusercontent.com/32310938/66071576-0f6c0480-e55c-11e9-884d-bd20a5e4aea7.png" alt="alt text" width="800" height=""></kbd>
 <br/>
 
 ### Solution: <a title="08 - Clean Up Nasty HTML Wiki Bulgaria" href="https://github.com/TsvetanNikolov123/Front-End---HTML---CSS/blob/master/04%20HTML%20STRUCTURE/08.%20Clean%20up%20Wiki%20Bulgaria/index.html">08 - Clean Up Nasty HTML Wiki Bulgaria</a>
